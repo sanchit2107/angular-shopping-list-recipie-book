@@ -30,3 +30,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Project Workflow
 ![Planning the App](/project-work-images/Planning App.png)
+
+### Components Used
+    * AppComponent
+    * HeaderComponent
+    * RecipiesComponent
+    * RecipeListComponent
+    * RecipeDetailComponent
+    * RecipeItemComponent
+    * ShoppingListComponent
+    * ShoppingEditComponent
